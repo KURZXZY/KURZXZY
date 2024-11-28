@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kur</h1>
 <h3 align="center">I am an ordinary human being</h3>
 
-<p align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluNzViYXE1dW16aW1hbjdtZGc1bmZjMzkyeHAxZ3Z4YXJsNDdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" alt="GIF Animasi" style="width:980px; height:680px;">
+<p align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluNzViYXE1dW16aW1hbjdtZGc1bmZjMzkyeHAxZ3Z4YXJsNDdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" alt="GIF Animasi" style="width:600px; height:auto;">
 
 <p align="left"> <audio hidden autoplay loop>
         <source src="kur.mp3" type="audio/mpeg">
