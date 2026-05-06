@@ -22,8 +22,8 @@
 <a href="https://instagram.com/_kurniawan_124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kurniawan_124" height="30" width="40" /></a>
 </p>
 
-<a href="https://portofolio-kur.vercel.app/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website_aiturbo" height="30" width="40" />
+<a href="https://portofolio-kur.vercel.app/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="website" height="30" width="30" style="filter: invert(100%);" />
 </a>
 
 
