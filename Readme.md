@@ -2,7 +2,7 @@
 <h3 align="center">I am an ordinary human being</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jfKiMjWolBzuWkdbw0/giphy.gif" width="60%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJxZGc5bWJqenpsY2FkbXZ0bmR1ajl1azd3cmkwc3k4dmZpejVmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBgXIUIlS9Fg4/giphy.gif" width="60%">
 </p>
 
 <p align="left"> <audio hidden autoplay loop>
@@ -19,12 +19,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/_kurniawan_124" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kurniawan_124" height="30" width="40" />
-  </a>
-  <a href="https://portofolio-kur.vercel.app/" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="website" height="30" width="30" />
-  </a>
+<a href="https://instagram.com/_kurniawan_124" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kurniawan_124" height="30" width="40" /></a> <a href="https://portofolio-kur.vercel.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="website" height="30" width="30" /></a>
 </p>
-
-
