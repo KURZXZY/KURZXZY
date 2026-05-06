@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kur</h1>
 <h3 align="center">I am an ordinary human being</h3>
 
-<img src="https://media.giphy.com/media/jfKiMjWolBzuWkdbw0/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/jfKiMjWolBzuWkdbw0/giphy.gif" style="max-width: 100%; height: auto;" width="500">
 
 <p align="left"> <audio hidden autoplay loop>
         <source src="kur.mp3" type="audio/mpeg">
