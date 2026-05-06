@@ -18,6 +18,17 @@
 - 📫 How to reach me **wawanyoyo48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_kurniawan_124" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://portofolio-kur.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="website" height="30" width="30" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://instagram.com/_kurniawan_124" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://portofolio-kur.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/domain.png" alt="website" height="30" width="30" />
+      </a>
+    </td>
+  </tr>
+</table>
