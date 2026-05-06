@@ -23,7 +23,7 @@
 </p>
 
 <a href="https://portofolio-kur.vercel.app/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="website" height="30" width="30" style="filter: invert(100%);" />
+  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="website" height="30" width="30" />
 </a>
 
 
