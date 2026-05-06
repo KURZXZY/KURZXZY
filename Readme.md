@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kur</h1>
 <h3 align="center">I am an ordinary human being</h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jfKiMjWolBzuWkdbw0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-meme-kucing-jfKiMjWolBzuWkdbw0">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/jfKiMjWolBzuWkdbw0/giphy.gif" width="300" />
 
 <p align="left"> <audio hidden autoplay loop>
         <source src="kur.mp3" type="audio/mpeg">
